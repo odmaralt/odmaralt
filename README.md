@@ -1,35 +1,19 @@
 ### Hi there 👋
 
-<img src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47o6k15yd9r3vft9k40n3chzx24my2ysvyz8457jsu&rid=giphy.gif&ct=g" width="100%"/>
+<img src="[https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47o6k15yd9r3vft9k40n3chzx24my2ysvyz8457jsu&rid=giphy.gif&ct=g](https://media3.giphy.com/media/yoJC2lKmI4ljtpdiJa/giphy.gif?cid=ecf05e47u7c1l87m302hhuwrd8bxkl322282ikdbgzw1wxrh&rid=giphy.gif&ct=g)" width="100%"/>
 
 ```shell
-┌──❀*̥˚──◌──◌──❀*̥˚─┐
-    Hi there!
-└◌───❀*̥˚───◌───❀*̥˚┘
-
 ```
-### 📱 Social links
-
-- Polywork: [vortex](https://vortex.name)
-- Twitter: [0_vortex](https://twitter.com/0_vortex)
-- Stalker: [connect-with.vortex.name](https://connect-with.vortex.name)
 
 ### 🔮 Start a conversation
 
-- Psychology: [commander](https://www.16personalities.com/profiles/bdbc4d20d6087)
-- Email: [ted.vortex@gmail.com](mailto:ted.vortex@gmail.com?subject=Contact%20Request)
-- Phone: [754-345-624](sms:+40754345624)
-
-### 🔐 Machines only section
-
-![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-score&lastDay=31)
-![0-vortex Actions](https://api.meercode.io/badge/0-vortex/0-vortex?type=ci-count&lastDay=31)
-
+- Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
+- Phone: [4252337699](sms:+14252337699)
 <details open>
   <summary>Quote of the day</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </details>
