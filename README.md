@@ -20,7 +20,7 @@ Hi, I'm Odmaral Tumenjargal!
 
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
 - Phone: [4252337699](sms:+14252337699)
-- Discord: [oddy976#2117]
+- Discord: oddy976#2117
 
 <details open>
   
@@ -34,7 +34,9 @@ Hi, I'm Odmaral Tumenjargal!
 
 <details>
    <summary>🎶 Recently played</summary>
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u)
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
+       />
+  
 
 </details>
 
