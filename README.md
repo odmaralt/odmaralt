@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Eye am alien, Eye need space !!!" src="./static/expedition.gif" width="100%"/>
+<img alt="Eye am alien, Eye need space !!!" src="[./static/expedition.gif](https://github.com/0-vortex/0-vortex/raw/main/static/expedition.gif)" width="100%"/>
 
 ```shell
 
