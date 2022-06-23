@@ -30,8 +30,8 @@
       <br/>
         <p align="center">
           <a href="https://github.com/odmaralt/">
-             <img width="500px" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
-          <img width="500px" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
+             <img width="48%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
+          <img width="49%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
           </a>
        </p>
      <br>
@@ -42,7 +42,7 @@
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph/?username=odmaralt&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
 ------
