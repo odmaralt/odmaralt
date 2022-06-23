@@ -22,7 +22,7 @@
 
 ```
 
-<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="35%"/>
+<img  style="justify-content: center; align-items: center" src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="35%"/>
 
 
 ### 🔮 Start a conversation
@@ -43,7 +43,7 @@
 
 <details>
    <summary>🎶 Recently played</summary>
-  <img width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
+  <img style="justify-content: center; align-items: center" width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
        />
   
 
