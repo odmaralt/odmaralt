@@ -3,9 +3,10 @@ Hi, I'm Odmaral Tumenjargal!
 
 ```
 -----------------------------------------------------------------------
-💻 I am a learning software engineering at Nest Academy.
-📚 I am a sophomore at Lake Washington High School
-📝 I have a strong interest in Data Science and Artificial Intelligence
+💻 Software engineer and website + game developer.
+🖱 Learning to code at Nest Academy
+📚 Sophomore at Lake Washington High School
+📝 Strong interest in Data Science and Artificial Intelligence
 🔭 Working on a Game Project
 🌟 Main languages: JavaScript
 💖 Hobbies include coding, reading & journaling
