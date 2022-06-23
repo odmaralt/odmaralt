@@ -2,7 +2,7 @@ Hi, I'm Odmaral Tumenjargal!
 
 
 ```
------------------------------------------------------------------------
+---------------------------------------------------------------
 💻 Software engineer and website + game developer.
 🖱 Learning to code at Nest Academy
 📚 Sophomore at Lake Washington High School
@@ -13,13 +13,15 @@ Hi, I'm Odmaral Tumenjargal!
 🎵 Love pop and r&b music
 🍿 Currently watching Jane the Virgin
 ```
-<img src="" width="100%"/>
+<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="100%"/>
 
 
 ### 🔮 Start a conversation
 
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
 - Phone: [4252337699](sms:+14252337699)
+- Discord: [oddy976#2117]
+
 <details open>
   
   <summary>☀️ Quote of the day ☀</summary>
