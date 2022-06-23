@@ -17,8 +17,10 @@ Hi, I'm Odmaral Tumenjargal!
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
 🍿 Currently watching Jane the Virgin
+
+<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="35%"/>
 ```
-<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="40%"/>
+
 
 
 ### 🔮 Start a conversation
