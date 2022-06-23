@@ -26,7 +26,9 @@
 
 </details>
  
-### :octocat: Popular respiratories
+### :octocat: Popular repositories
 
 ### :octocat: GitHub Activity
+
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16)
 
