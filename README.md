@@ -34,7 +34,7 @@
         </p>
         <p align="center">
           <a href="https://github.com/odmaralt/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
           </a>
        </p>
      <br>
