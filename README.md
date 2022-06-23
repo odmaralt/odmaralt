@@ -30,8 +30,8 @@
       <br/>
         <p align="center">
           <a href="https://github.com/odmaralt/">
-             <img width="49%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
-          <img width="60%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
+             <img width="48%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
+          <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
           </a>
        </p>
      <br>
