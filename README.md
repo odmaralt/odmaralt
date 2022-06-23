@@ -30,7 +30,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/](https://github.com/odmaralt/">
-          <img src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=tokyonight)" alt="odmaralt :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=dark)"/></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
