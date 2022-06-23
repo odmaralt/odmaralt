@@ -43,7 +43,7 @@
 
 <details>
    <summary>🎶 Recently played</summary>
-  <img style="justify-content: center; align-items: center" width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
+  <img width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
        />
   
 
