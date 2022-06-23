@@ -1,7 +1,7 @@
-
+### Hi there 👋
 
 <img src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47o6k15yd9r3vft9k40n3chzx24my2ysvyz8457jsu&rid=giphy.gif&ct=g" width="100%"/>
-### Hi there 👋
+
 ```shell
 ┌──❀*̥˚──◌──◌──❀*̥˚─┐
     Hi there!
