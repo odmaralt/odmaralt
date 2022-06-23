@@ -31,7 +31,7 @@
         <p align="center">
           <a href="https://github.com/odmaralt/">
              <img width="48%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
-          <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
+          <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
           </a>
        </p>
      <br>
@@ -41,7 +41,6 @@
 <details>
   <summary>📈 Activity Graph</summary>
   <br/>
-  <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph/?username=odmaralt&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
