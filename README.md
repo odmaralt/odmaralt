@@ -13,7 +13,7 @@ Hi, I'm Odmaral Tumenjargal!
 🎵 Love pop and r&b music
 🍿 Currently watching Jane the Virgin
 ```
-<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="100%"/>
+<img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="50%"/>
 
 
 ### 🔮 Start a conversation
