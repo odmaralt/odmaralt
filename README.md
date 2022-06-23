@@ -10,7 +10,8 @@
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
 - Phone: [4252337699](sms:+14252337699)
 <details open>
-  <summary>Quote of the day</summary>
+  
+  <summary>☀️ Quote of the day ☀</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.❞</i>
@@ -26,9 +27,17 @@
 
 </details>
  
+ 
+ 
 ### :octocat: Popular repositories
 
+
+
+
 ### :octocat: GitHub Activity
+
+
+
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u)
 
