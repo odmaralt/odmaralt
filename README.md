@@ -2,7 +2,7 @@ Hi, I'm Odmaral Tumenjargal!
 
 
 ```
--------------------------
+-----------------------------------------------------------------------
 💻 I am a learning software engineering at Nest Academy.
 📚 I am a sophomore at Lake Washington High School
 📝 I have a strong interest in Data Science and Artificial Intelligence
@@ -14,8 +14,6 @@ Hi, I'm Odmaral Tumenjargal!
 ```
 <img src="" width="100%"/>
 
-```shell
-```
 
 ### 🔮 Start a conversation
 
