@@ -10,7 +10,7 @@ Hi, I'm Odmaral Tumenjargal!
 🔭 Working on a Game Project
 🌟 Main languages: JavaScript
 💖 Hobbies include coding, reading & journaling
-🎵 Love pop and r&b music
+🎵 Love R&B and pop music
 🍿 Currently watching Jane the Virgin
 ```
 <img src="https://media3.giphy.com/media/hpXdHPfFI5wTABdDx9/giphy.gif?cid=ecf05e475hycsohixnoeve38tlo06rlkccwesxmv8gwy5k6h&rid=giphy.gif&ct=g" width="50%"/>
@@ -62,6 +62,5 @@ Hi, I'm Odmaral Tumenjargal!
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://activity-graph.herokuapp.com/graph/?username=odmaralt&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
 </details>
 
-------
-Credit: [1999azzar](https://github.com/1999azzar)
+--------------------------
 Last Edited on: 06/23/2022
