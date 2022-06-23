@@ -32,9 +32,12 @@ Hi, I'm Odmaral Tumenjargal!
 
 </details>
 
-
-
+<details>
+   <summary>🎶 Recently played</summary>
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u)
+
+</details>
+
 
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
