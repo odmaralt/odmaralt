@@ -19,17 +19,6 @@
 
 </details>
 
- 
- 
- 
-### :octocat: Popular repositories
-
-
-
-
-### :octocat: GitHub Activity
-
-
 
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u)
@@ -41,7 +30,7 @@
       <br/>
         <p align="center">
           <a href="https://github.com/1999AZZAR/](https://github.com/odmaralt/">
-          <img src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical)" alt="odmaralt :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=tokyonight)" alt="odmaralt :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/1999AZZAR/">
