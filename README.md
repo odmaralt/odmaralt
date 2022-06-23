@@ -31,7 +31,7 @@
         <p align="center">
           <a href="https://github.com/odmaralt/">
              <img width="48%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
-          <img width="49%" height="230px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
+          <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
           </a>
        </p>
      <br>
