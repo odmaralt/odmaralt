@@ -1,4 +1,7 @@
-Hi, I'm Odmaral Tumenjargal!
+┌──────────── •✧✧• ────────────┐
+ -Hi, I'm Odmaral Tumenjargal!- 
+└──────────── •✧✧• ────────────┘
+
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
