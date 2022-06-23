@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="[[./static/expedition.gif](https://github.com/0-vortex/0-vortex/raw/main/static/expedition.gif)](https://media0.giphy.com/media/26hisvCylQN7VcaOI/giphy.gif)" width="100%"/>
+<img src="https://media1.giphy.com/media/9LZTcawH3mc8V2oUqk/giphy.gif?cid=ecf05e47o6k15yd9r3vft9k40n3chzx24my2ysvyz8457jsu&rid=giphy.gif&ct=g" width="100%"/>
 
 ```shell
 
