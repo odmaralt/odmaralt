@@ -19,13 +19,6 @@
 
 </details>
 
-
-<details>
-  <summary>Memes</summary>
-
-![](./static/meme-this-is-fine.png?raw=true " ")
-
-</details>
  
  
  
