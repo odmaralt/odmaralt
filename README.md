@@ -1,6 +1,18 @@
-### Hi there 👋
+Hi, I'm Odmaral Tumenjargal!
 
-<img src="https://media1.giphy.com/media/7Gq3HNqcBvUWmVEOCR/giphy.gif?cid=ecf05e471m7txc4ln5xhi1atsrp6tbhe92yiqn187jdcsca7&rid=giphy.gif&ct=g" width="100%"/>
+
+```
+-------------------------
+💻 I am a learning software engineering at Nest Academy.
+📚 I am a sophomore at Lake Washington High School
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on a Game Project
+🌟 Main languages: JavaScript
+💖 Hobbies include coding, reading & journaling
+🎵 Love pop and r&b music
+🍿 Currently watching Jane the Virgin
+```
+<img src="" width="100%"/>
 
 ```shell
 ```
