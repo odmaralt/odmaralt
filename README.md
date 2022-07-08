@@ -10,15 +10,14 @@
 
 ```
 ---------------------------------------------------------------
-💻 Software engineer and website + game developer.
+💻 Software developer + game developer.
 🖱 Learning to code at Nest Academy
 📚 Sophomore in High School
-📝 Strong interest in Data Science and Artificial Intelligence
-🔭 Working on a Portfolio
+🔭 Working on my Portfolio
 🌟 Main languages: JavaScript, CSS, Html
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching Stranger Things
+🍿 Currently watching Legacies 
 
 ```
 
@@ -36,7 +35,7 @@
   <summary>☀️ Quote of the day ☀</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"I don’t think of all the misery but of the beauty that still remains.” – Anne Frank❞</i>
+<i>❝"It’s not about money or connection — it’s the willingness to outwork and outlearn everyone." ~ Mark Cuban, American investor❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </details>
