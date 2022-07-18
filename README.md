@@ -17,7 +17,7 @@
 🌟 Main languages: JavaScript, CSS, Html
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching Legacies 
+🍿 Currently watching Money Heist Korea 
 
 ```
 
