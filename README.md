@@ -27,7 +27,6 @@
 ### 🔮 Start a conversation
 
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
-- Phone: [4252337699](sms:+14252337699)
 - Discord: oddy976#2117
 
 <details open>
