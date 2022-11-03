@@ -13,11 +13,11 @@
 💻 Software developer + game developer.
 🖱 Learning to code at Nest Academy
 📚 Sophomore in High School
-🔭 Working on my Portfolio
-🌟 Main languages: JavaScript, CSS, Html
+🔭 Working on React Project
+🌟 Main languages: JavaScript, CSS, HTML, Java
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching Money Heist Korea 
+🍿 Currently watching ... 
 
 ```
 
