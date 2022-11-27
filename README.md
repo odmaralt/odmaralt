@@ -13,11 +13,11 @@
 💻 Software developer + game developer.
 🖱 Learning to code at Nest Academy
 📚 Sophomore in High School
-🔭 Working on React Project
-🌟 Main languages: JavaScript, CSS, HTML, Java
+🔭 Working on learning Back-end
+🌟 Main languages: JavaScript, CSS, HTML, Java, React.js
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching ... 
+🍿 Currently watching Alice in Borderland 
 
 ```
 
