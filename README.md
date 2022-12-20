@@ -14,10 +14,10 @@
 🖱 Learning to code at Nest Academy
 📚 Sophomore in High School
 🔭 Working on learning Back-end
-🌟 Main languages: JavaScript, CSS, HTML, Java, React.js
+🌟 Main languages: JavaScript, CSS, HTML, Java, React.js, Node.JS
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching Alice in Borderland 
+🍿 Currently watching Reply 1988
 
 ```
 
