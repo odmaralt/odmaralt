@@ -13,11 +13,11 @@
 💻 Software developer + game developer.
 🖱 Learning to code at Nest Academy
 📚 Sophomore in High School
-🔭 Working on learning Back-end
+🔭 Working on Full-Stack App
 🌟 Main languages: JavaScript, CSS, HTML, Java, React.js, Node.JS
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
-🍿 Currently watching Reply 1988
+🍿 Currently watching ...
 
 ```
 
@@ -70,4 +70,4 @@
 </details>
 
 --------------------------
-Last Edited on: 06/23/2022
+Last Edited on: 02/16/2023
