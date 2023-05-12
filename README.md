@@ -10,10 +10,9 @@
 
 ```
 ---------------------------------------------------------------
-💻 Software developer + game developer.
-🖱 Learning to code at Nest Academy
+💻 Software developer
 📚 Sophomore in High School
-🔭 Working on Full-Stack App
+🔭 Working on mobile app
 🌟 Main languages: JavaScript, CSS, HTML, Java, React.js, Node.JS
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
@@ -34,7 +33,7 @@
   <summary>☀️ Quote of the day ☀</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝"It’s not about money or connection — it’s the willingness to outwork and outlearn everyone." ~ Mark Cuban, American investor❞</i>
+<i>❝Knowledge is of no value unless you put it into practice.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </details>
