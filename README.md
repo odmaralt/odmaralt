@@ -13,7 +13,7 @@
 💻 Software developer
 📚 Sophomore in High School
 🔭 Working on mobile app
-🌟 Main languages: JavaScript, CSS, HTML, Java, React.js, Node.JS
+🌟 Languages: JavaScript, CSS, HTML, Java, React.js, Node.JS, React Native
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and pop music
 🍿 Currently watching ...
@@ -63,4 +63,4 @@
 </details>
 
 --------------------------
-Last Edited on: 05/12/2023
+Last Edited on: 05/27/2023
