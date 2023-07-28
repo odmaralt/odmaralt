@@ -11,12 +11,12 @@
 ```
 ---------------------------------------------------------------
 💻 Software developer
-📚 Sophomore in High School
-🔭 Working on mobile app
+📚 Junior in High School
+🔭 Working on acquiring my AWS Cloud Practicioner Certification
 🌟 Languages: JavaScript, CSS, HTML, Java, React.js, Node.JS, React Native
 💖 Hobbies include coding, reading & journaling
-🎵 Love R&B and pop music
-🍿 Currently watching ...
+🎵 Love R&B and chill music
+🍿 Currently watching Sweet Home
 
 ```
 
