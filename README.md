@@ -12,11 +12,11 @@
 ---------------------------------------------------------------
 💻 Software developer
 📚 Junior in High School
-🔭 Working on acquiring my AWS Cloud Practicioner Certification
-🌟 Languages: JavaScript, CSS, HTML, Java, React.js, Node.JS, React Native
+🔭 Working on making my portfolio website.
+🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python
 💖 Hobbies include coding, reading & journaling
 🎵 Love R&B and chill music
-🍿 Currently watching Sweet Home
+🍿 Currently watching ...
 
 ```
 
@@ -33,7 +33,7 @@
   <summary>☀️ Quote of the day ☀</summary>
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Knowledge is of no value unless you put it into practice.❞</i>
+<i>❝The only guarantee for failure is to stop trying.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 </details>
@@ -63,4 +63,4 @@
 </details>
 
 --------------------------
-Last Edited on: 07/28/2023
+Last Edited on: 09/21/2023
