@@ -13,9 +13,9 @@
 💻 Software developer
 📚 Junior in High School
 🔭 Working on making my portfolio website.
-🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python
-💖 Hobbies include coding, reading & journaling
-🎵 Love R&B and chill music
+🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python, React Native
+💖 Hobbies include coding, reading & volunteering
+🎵 Love RnB and chill music
 🍿 Currently watching ...
 
 ```
@@ -63,4 +63,4 @@
 </details>
 
 --------------------------
-Last Edited on: 09/21/2023
+Last Edited on: 11/14/2023
