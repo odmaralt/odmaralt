@@ -12,9 +12,9 @@
 ---------------------------------------------------------------
 💻 Software developer
 📚 Junior in High School
-🔭 Working on making my portfolio website.
+🔭 Working on creating an educational Roblox Game.
 🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python, React Native
-💖 Hobbies include coding, reading & volunteering
+💖 Hobbies include coding, reading, & volunteering
 🎵 Love RnB and chill music
 🍿 Currently watching ...
 
