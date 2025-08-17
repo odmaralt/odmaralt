@@ -11,12 +11,11 @@
 ```
 ---------------------------------------------------------------
 💻 Software developer
-📚 Senior in High School
-🔭 Working on creating a game.
+📚 Freshman at UW
+🔭 Working on debugging past websites.
 🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python, React Native
-💖 Hobbies include coding, reading, & volunteering
-🎵 Love RnB and chill music
-🍿 Currently watching ...
+💖 Hobbies include coding, watching movies, & volunteering.
+🎵 Love RnB and chill music.
 
 ```
 
@@ -27,16 +26,6 @@
 
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
 - Discord: oddy976#2117
-
-<details open>
-  
-  <summary>☀️ Quote of the day ☀</summary>
-
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝The only guarantee for failure is to stop trying.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-
-</details>
 
 <details>
    <summary>🎶 Recently played</summary>
