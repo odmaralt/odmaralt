@@ -1,13 +1,5 @@
 ────────── •✧✧• ───────── 𝗛𝗶, 𝗜'𝗺 𝗢𝗱𝗺𝗮𝗿𝗮𝗹 𝗧𝘂𝗺𝗲𝗻𝗷𝗮𝗿𝗴𝗮𝗹! ───────── •✧✧• ──────────
 
-
-
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ```
 ---------------------------------------------------------------
 💻 Software developer
