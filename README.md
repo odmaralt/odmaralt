@@ -17,31 +17,8 @@
 ### 🔮 Start a conversation
 
 - Email: [oddy976@gmail.com](mailto:oddy976@Gmail.com?subject=Contact%20Request)
-- Discord: oddy976#2117
+- Discord: odmaralt
 
-<details>
-   <summary>🎶 Recently played</summary>
-  <img width="35%" src="https://spotify-recently-played-readme.vercel.app/api?user=31ifvvwmmbhek7b2jonn6xz2a35u"
-       />
-  
-
-</details>
-
-
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-    <h2 align="center"> 📊 Github stats </h2>
-      <br/>
-        <p align="center">
-          <a href="https://github.com/odmaralt/">
-             <img width="48%" src="https://github-readme-stats.vercel.app/api?username=odmaralt&show_icons=true&theme=radical"/></a>
-          <img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odmaralt&theme=radical" />
-          </a>
-       </p>
-     <br>
-  </div>    
-</details>
 
 --------------------------
-Last Edited on: 11/14/2023
+Last Edited on: 09/22/2026
