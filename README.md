@@ -11,8 +11,8 @@
 ```
 ---------------------------------------------------------------
 💻 Software developer
-📚 Freshman at UW
-🔭 Working on debugging past websites.
+📚 Sophomore at UW
+🔭 Working on the WINFO Hackathon website
 🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python, React Native
 💖 Hobbies include coding, watching movies, & volunteering.
 🎵 Love RnB and chill music.
