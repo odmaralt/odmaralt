@@ -6,7 +6,7 @@
 📚 Sophomore at UW
 🔭 Working on the WINFO Hackathon website
 🌟 Skills: JavaScript, CSS, HTML, Java, React.js, Node.JS, Next.JS, Java, Python, React Native
-💖 Hobbies include coding, watching movies, & volunteering.
+💖 Hobbies include coding, watching movies, & traveling.
 🎵 Love RnB and chill music.
 
 ```
